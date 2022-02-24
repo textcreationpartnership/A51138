@@ -1,0 +1,429 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the members of both houses of Parliament for their serious consideration in making up the breaches of this nation.</title>
+            <author>Money, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51138</idno>
+            <idno type="STC">Wing M2412</idno>
+            <idno type="STC">ESTC R220224</idno>
+            <idno type="EEBO-CITATION">99831646</idno>
+            <idno type="PROQUEST">99831646</idno>
+            <idno type="VID">36111</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36111)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2051:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the members of both houses of Parliament for their serious consideration in making up the breaches of this nation.</title>
+                  <author>Money, William.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 7: William Money.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain. --  Parliament --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:36111:1"/>
+            <pb facs="tcp:36111:1" rendition="simple:additions"/>
+            <head>To the Members of bo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Houſes OF PARLIAMENT <hi>For their ſerious Conſideration, in making up the Breaches of this Nation.</hi>
+            </head>
+            <lg>
+               <l>LORD God! grant <hi>England's</hi> Parliament</l>
+               <l>May have their Hearts now wholly bent,</l>
+               <l>To Act ſuch things, as in God's ſight</l>
+               <l>May be to all both juſt and right.</l>
+            </lg>
+            <lg>
+               <l>O <hi>England!</hi> thy long Parliaments</l>
+               <l>Have caus'd, in thee, ſuch woful Rents,</l>
+               <l>Thy laſt caus'd Thouſands Innocents,</l>
+               <l>To ſuffer grievous Puniſhments.</l>
+            </lg>
+            <lg>
+               <l>The Fathers, Children and their Mothers</l>
+               <l>Are ſeperated from each others:</l>
+               <l>The Parents forc'd in Priſon to lie,</l>
+               <l>Till many Scores therein did dye.</l>
+            </lg>
+            <lg>
+               <l>And that's not all, in this our day,</l>
+               <l>For Goods are taken all away,</l>
+               <l>And nothing left for Young or Old</l>
+               <l>To lie upon, or keep from Cold.</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:36111:2"/>
+               <l>And many tender Babes now here.</l>
+               <l>Suffers, as if Tranſgreſſors were,</l>
+               <l>Some Took from Bed, on bare Boards lay,</l>
+               <l>Bedclothes being taken all away.</l>
+            </lg>
+            <lg>
+               <l>And now 'tis counted a light thing,</l>
+               <l>Houſes to break, and enter in,</l>
+               <l>Take all, and Innocents to ſtarve,</l>
+               <l>When Parliaments ſhould ſuch preſerve.</l>
+            </lg>
+            <lg>
+               <l>And if ſuch things be <hi>Clriſtian Works,</hi>
+               </l>
+               <l>Then what is <hi>Heathen, Jews</hi> or <hi>Turks?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Beſides thoſe things, they will you tell,</l>
+               <l>Themſelves are not Infallible;</l>
+               <l>For certainly they do not know,</l>
+               <l>Whether they'r in the Right or no.</l>
+            </lg>
+            <lg>
+               <l>And if there be not certaintie,</l>
+               <l>Then men may ſoon miſtaken be;</l>
+               <l>And in Extreams, which ſtill are Evil,</l>
+               <l>Call <hi>Devil, Saint,</hi> and <hi>Saint</hi> a <hi>Devil.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>O! how do men, in this our day,</l>
+               <l>Deſtroy their Neighbours, and yet ſay,</l>
+               <l>
+                  <hi>They are not ſure, they cannot tell,</hi>
+               </l>
+               <l>
+                  <hi>There's none are now Infallible.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>O <hi>Engliſh Men!</hi> the God above,</l>
+               <l>Commands, that you your Neighbours love,</l>
+               <l>Ev'n as your ſelves, likewiſe all men:</l>
+               <l>His Law you do tranſgreſs, till then.</l>
+            </lg>
+            <lg>
+               <l>Amongſt ſome other ſad Diſaſters,</l>
+               <l>Now <hi>England's</hi> Scum
+<note n="*" place="margin">Note, <hi>The Wicked Mercinary Informers.</hi>
+                  </note> is made their Maſters,</l>
+               <l>If Lord or Knight run not their Rounds,</l>
+               <l>Then have at them for a hundred Pounds.</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:36111:2"/>
+               <l>But unto you that now are choſe,</l>
+               <l>Men do a truſt in you Repoſe.</l>
+               <l>Let me to you ſomething propoſe,</l>
+               <l>Hoping when met, you all will cloſe,</l>
+            </lg>
+            <lg>
+               <l>In Repealing all ſuch Laws,</l>
+               <l>As do provoke and juſtly cauſe,</l>
+               <l>The Righteous Gods juſt Indignation,</l>
+               <l>To be pour'd forth upon this Nation.</l>
+            </lg>
+            <lg>
+               <l>Let all men have free Liberty,</l>
+               <l>To Worſhip God; for certainly</l>
+               <l>He is moſt able to direct,</l>
+               <l>When other means will not effect.</l>
+            </lg>
+            <lg>
+               <l>If forced, then ſure, in deſpight</l>
+               <l>You can but make an Hypocrite,</l>
+               <l>Although the Body brought in ſight,</l>
+               <l>The Heart may other things indite.</l>
+            </lg>
+            <lg>
+               <l>Force never yet accompliſh't that,</l>
+               <l>Which Forcers moſtly aimed at;</l>
+               <l>Nor never yet did Honour bring,</l>
+               <l>To Nation, Parl'ament or King.</l>
+            </lg>
+            <lg>
+               <l>But now I hope, you'l Honour bring,</l>
+               <l>To Nation, Parliament and KING,</l>
+               <l>In ſuffering all feed on that Paſture,</l>
+               <l>To ſtand and fall to their own Maſter.</l>
+            </lg>
+            <lg>
+               <l>And that's the way will pleaſe him moſt,</l>
+               <l>To purchaſe which, his Blood it coſt.</l>
+               <l>Therefore, be ſure, he'l caſt away,</l>
+               <l>All ſuch as will not him obey.</l>
+            </lg>
+            <lg>
+               <l>To antient Laws do you ſtand faſt,</l>
+               <l>Yet ſee the Scale be equal caſt;</l>
+               <l>
+                  <pb n="4" facs="tcp:36111:3"/>
+Give <hi>Caeſar's</hi> Due, do you make haſte,</l>
+               <l>Take heed you do not God's Due waſte.</l>
+            </lg>
+            <lg>
+               <l>Diſtinguiſh rightly of ſuch things,</l>
+               <l>What's due to God, what's due to Kings.</l>
+               <l>When each of them hath Right, it brings</l>
+               <l>You juſtly to perform ſuch things.</l>
+            </lg>
+            <lg>
+               <l>As do belong unto your place,</l>
+               <l>To go beyond, that's your diſgrace:</l>
+               <l>Therefore to that, haſte on a pace,</l>
+               <l>And do thoſe things that's in your place.</l>
+            </lg>
+            <lg>
+               <l>Which is good Laws, 'twixt man and man,</l>
+               <l>Make ſuch, and force them what you can.</l>
+               <l>But Chriſt will ſuffer none to thrive,</l>
+               <l>That limits his Prerogative.</l>
+            </lg>
+            <lg>
+               <l>For he is King of Conſcience ſure,</l>
+               <l>And therefore he will not endure,</l>
+               <l>That any ſhould make Laws for him,</l>
+               <l>That can't give Faith, nor keep from Sin.</l>
+            </lg>
+            <lg>
+               <l>Therefore act not above your Sphere,</l>
+               <l>You have no Power but only here;</l>
+               <l>For when men go unto the Grave,</l>
+               <l>You have no Power to damn nor ſave.</l>
+            </lg>
+            <lg>
+               <l>Therefore there is no Reaſon why</l>
+               <l>You ſhould make Laws, and Conſcience tye,</l>
+               <l>Except you could, when men do dye,</l>
+               <l>Help them to Heaven eternally.</l>
+            </lg>
+            <lg>
+               <l>For ſuch as Conſcience tye, do not</l>
+               <l>Regard what Chriſt hath ſaid in that,</l>
+               <l>In holy Writ we do not find,</l>
+               <l>That to do ſo, it was his mind.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:36111:3"/>
+               <l>When he was ask't the Queſtion, Whether</l>
+               <l>The Tares and Wheat ſhould grow together?</l>
+               <l>
+                  <hi>Then let the Tares alone,</hi> ſaid he,</l>
+               <l>
+                  <hi>By th' Angels thoſe must gather'd be.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yet many Laws are made 'gainſt thoſe,</l>
+               <l>Who are their Friends, and not their Foes.</l>
+               <l>Lord God! forgive, even all thoſe,</l>
+               <l>Who were the cauſe of ſuch great VVoes.</l>
+            </lg>
+            <lg>
+               <l>And cruel Sufferings in this Nation,</l>
+               <l>VVithout all Pity or Compaſſion,</l>
+               <l>As if ſome ſhould not live on Earth,</l>
+               <l>But ſtarved be by lingring Death.</l>
+            </lg>
+            <lg>
+               <l>But now, this is the thing we hope,</l>
+               <l>You will not act as theſe and Pope,</l>
+               <l>VVhom our fore-Fathers did oppoſe,</l>
+               <l>Till flames of Fire did them incloſe.</l>
+            </lg>
+            <lg>
+               <l>For they did rather chuſe to dye,</l>
+               <l>Than act againſt their Conſcience: VVhy?</l>
+               <l>Becauſe they knew moſt certainly,</l>
+               <l>For that to dye Eternally.</l>
+            </lg>
+            <lg>
+               <l>And ſo, they choſe to ſuffer here,</l>
+               <l>That they in Heaven might appear</l>
+               <l>With Conſciences ſpotleſs and clear,</l>
+               <l>For they were void of ſlaviſh ſear.</l>
+            </lg>
+            <lg>
+               <l>For where the Conſcience is in doubt,</l>
+               <l>No man on Earth can free it out.</l>
+               <l>For it doth ſtill accuſe within,</l>
+               <l>All ſuch as act and live in Sin.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:36111:4"/>
+               <l>And ſo, its time, and Reaſon why,</l>
+               <l>Laws be Repeal'd, that Conſcience tye,</l>
+               <l>Which if you do not, certainly</l>
+               <l>With you God will be angery.</l>
+            </lg>
+            <lg>
+               <l>Five may not joyn with Family,</l>
+               <l>To Worſhip God in Unity</l>
+               <l>When many hundreds, as we ſee,</l>
+               <l>May meet to act all Vanitie.</l>
+            </lg>
+            <lg>
+               <l>And ſuch have not the leaſt Reflection,</l>
+               <l>But rather ſeem to have Protection,</l>
+               <l>When ſuch as truly do ſerve God,</l>
+               <l>Oft times do feel their heavy Rod.</l>
+            </lg>
+            <lg>
+               <l>And ſo, as Scripture plain doth ſay,</l>
+               <l>We ſee fulfill'd in this our day,</l>
+               <l>All that from Evil turn away,</l>
+               <l>Are often made a daily prey.</l>
+            </lg>
+            <lg>
+               <l>For ſome have ſuffered very deep,</l>
+               <l>Their Ox, their Cows, and all their Sheep</l>
+               <l>Are taken from them, Children weep,</l>
+               <l>Nought left to cover when they ſleep.</l>
+            </lg>
+            <lg>
+               <l>Some layn in Priſon many a Year,</l>
+               <l>Some dy'd, which cauſed many a tear;</l>
+               <l>For which cauſe, ſome do juſtly fear,</l>
+               <l>A time of Judgment doth draw near,</l>
+            </lg>
+            <lg>
+               <l>Unto this Land, except the Yoke</l>
+               <l>Be taken off; that heavy ſtroak,</l>
+               <l>Which ſtill lies on the Innocent,</l>
+               <l>Them to deſtroy was their intent.</l>
+            </lg>
+            <lg>
+               <l>Yet ſuch as do offend God, muſt</l>
+               <l>Know certainly, that he is juſt,</l>
+               <l>
+                  <pb n="7" facs="tcp:36111:4"/>
+To every man, Reward will he,</l>
+               <l>According as his Works ſhall be.</l>
+            </lg>
+            <lg>
+               <l>Whether private men, or a whole Nation,</l>
+               <l>God hath for each a Viſitation:</l>
+               <l>Such as are wilful in Oppreſſion.</l>
+               <l>Shall ſuffer deep for their Tranſgreſſion,</l>
+            </lg>
+            <lg>
+               <l>O <hi>England! England!</hi> thou mayſt ſee,</l>
+               <l>God's Judgments like to come on thee.</l>
+               <l>Therefore make haſte, Repent, and flee</l>
+               <l>To th' Rock that can ſave thee and me.</l>
+            </lg>
+            <lg>
+               <l>Which if thou doſt not ſpeedily</l>
+               <l>Forſake thy lewd Debauchery,</l>
+               <l>And make the Oppreſſed to go free</l>
+               <l>Thou't ſuffer great Calamitie.</l>
+            </lg>
+            <lg>
+               <l>Abandon alſo thy great Pride,</l>
+               <l>And all Ungodlineſs beſide,</l>
+               <l>Or elſe thy Torment and thy Sorrow</l>
+               <l>Will be like <hi>Sodom</hi> and <hi>Gomorrah.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For Sin hath caus'd in many Nations,</l>
+               <l>Both great and grievous Deſolations.</l>
+               <l>And who provokes the Righteous God,</l>
+               <l>Muſt ſurely feel his heavy Rod.</l>
+            </lg>
+            <closer>
+               <signed>William Money.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
